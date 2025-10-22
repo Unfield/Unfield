@@ -1,10 +1,11 @@
 # Hey 👋 I'm Marcel
 
-🦦 Go dev who loves 🧡 Svelte (😅 tolerates JS).  
-🐳 Building self-hosted tools for devs — currently a Docker-based Valkey hosting platform.  
+🦦 Writing Go so my servers don’t cry.  
+🧩 Svelte enthusiast, JS/TSer by necessity not by choice.  
+🐳 Building self‑hosted tools for devs — currently wrangling containers for a Valkey hosting platform.  
+🛠️ "If it’s repetitive, make it an API."
+
+---
 
 ### ⚙️ Tech I enjoy
-- Go  
-- Svelte  
-- Docker  
-- Valkey
+Go • Svelte • Docker • Valkey
