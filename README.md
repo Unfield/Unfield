@@ -1,5 +1,8 @@
 # Hey 👋 I'm Marcel
 
+![](https://komarev.com/ghpvc/?username=Unfield&color=green)
+[![Follow Unfield](https://img.shields.io/github/followers/Unfield?label=Follow&style=social)](https://github.com/Unfield)
+
 🦦 Writing Go so my servers don’t cry.  
 🧩 Svelte enthusiast, JS/TSer by necessity not by choice.  
 🐳 Building self‑hosted tools for devs — currently wrangling containers for a Valkey hosting platform.  
