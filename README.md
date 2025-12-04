@@ -22,13 +22,4 @@
 🚧 **Valdock** — a self-hosted, Docker-based Valkey hosting platform  
 🧩 Working on modular Go tools that make dev ops… less annoying.  
 
----
-
-### 📊 GitHub Stats
-![Marcel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unfield&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unfield&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### ☕ Fun fact  JS is not fun 😅
