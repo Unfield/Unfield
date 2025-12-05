@@ -1,0 +1,45 @@
+{
+  "git": {
+    "inline_blame": {
+      "show_commit_summary": true,
+      "enabled": true
+    },
+    "git_gutter": "tracked_files"
+  },
+  "icon_theme": "Material Icon Theme",
+  "theme": "GitHub Dark Default",
+  "ui_font_family": ".ZedMono",
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "disable_ai": true,
+  "languages": {
+    "Templ": {
+      "formatter": {
+        "external": {
+          "command": "templ",
+          "arguments": ["fmt", "-stdin-filepath", "{buffer_path}"]
+        }
+      },
+      "format_on_save": "on",
+      "language_servers": [
+        "templ",
+        "tailwindcss-language-server",
+        "vscode-html-language-server",
+        "emmet-language-server"
+      ],
+      "inlay_hints": {
+        "enabled": true
+      }
+    }
+  },
+  "lsp": {
+    "tailwindcss-language-server": {
+      "settings": {
+        "includeLanguages": {
+          "templ": "html",
+          "Templ": "html"
+        }
+      }
+    }
+  }
+}
